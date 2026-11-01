@@ -1,0 +1,1 @@
+print("buda 2. kommitim")
