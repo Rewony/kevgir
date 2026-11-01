@@ -1,0 +1,1 @@
+print("bu komutlar ile atılmış bir committir")
